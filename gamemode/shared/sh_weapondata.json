@@ -1,0 +1,402 @@
+{
+    "weapons":
+    [
+        {
+            "model":"models/weapons/w_crossbow.mdl",
+            "group":1,
+            "class":"weapon_crossbow",
+            "name":"Crossbow",
+            "price":25000,
+            "ammo":0,
+            "ammoClass":"XBowBolt",
+            "damage":10,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rocket_launcher.mdl",
+            "group":1,
+            "class":"weapon_rpg",
+            "name":"RPG",
+            "price":37500,
+            "ammo":3,
+            "ammoClass":"RPG_Round",
+            "damage":50,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/W_357.mdl",
+            "group":1,
+            "class":"weapon_357",
+            "name":"357 Magnum",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"357",
+            "damage":4,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_grenade.mdl",
+            "group":1,
+            "class":"weapon_frag",
+            "name":"Frag Grenade",
+            "price":11250,
+            "ammo":3,
+            "ammoClass":"Grenade",
+            "damage":15,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_crowbar.mdl",
+            "group":1,
+            "class":"weapon_crowbar",
+            "name":"Crowbar",
+            "price":5000,
+            "ammo":0,
+            "ammoClass":"Pistol",
+            "damage":20,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_shotgun.mdl",
+            "group":1,
+            "class":"weapon_shotgun",
+            "name":"Shotgun",
+            "price":200000,
+            "ammo":100,
+            "ammoClass":"Buckshot",
+            "damage":8,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_slam.mdl",
+            "group":1,
+            "class":"weapon_slam",
+            "name":"SLAM",
+            "price":12500,
+            "ammo":2,
+            "ammoClass":"slam",
+            "damage":25,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg1.mdl",
+            "group":1,
+            "class":"weapon_smg1",
+            "name":"SMG",
+            "price":250000,
+            "ammo":500,
+            "ammoClass":"SMG1",
+            "damage":2,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_irifle.mdl",
+            "group":1,
+            "class":"weapon_ar2",
+            "name":"AR2",
+            "price":750000,
+            "ammo":0,
+            "ammoClass":"AR2",
+            "damage":3,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_glock18.mdl",
+            "group":2,
+            "class":"ptp_cs_glock",
+            "name":"G18",
+            "price":700,
+            "ammo":0,
+            "ammoClass":"BULLET_GLOCK",
+            "damage":4,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_deagle.mdl",
+            "group":2,
+            "class":"ptp_cs_deagle",
+            "name":"Deagle",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_DEAGLE",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_elite.mdl",
+            "group":2,
+            "class":"ptp_cs_elites",
+            "name":"Dual Elites",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_ELITE",
+            "damage":3,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_fiveseven.mdl",
+            "group":2,
+            "class":"ptp_cs_fiveseven",
+            "name":"Five Seven",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_FIVESEVEN",
+            "damage":5,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_p228.mdl",
+            "group":2,
+            "class":"ptp_cs_p228",
+            "name":"P228",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_P228",
+            "damage":4,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_pist_usp.mdl",
+            "group":2,
+            "class":"ptp_cs_usp",
+            "name":"USP",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_USP",
+            "damage":4,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_ak47.mdl",
+            "group":3,
+            "class":"ptp_cs_ak47",
+            "name":"AK-47",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_AK47",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_aug.mdl",
+            "group":3,
+            "class":"ptp_cs_aug",
+            "name":"AUG",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_AUG",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_famas.mdl",
+            "group":3,
+            "class":"ptp_cs_famas",
+            "name":"Famas",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_FAMAS",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_galil.mdl",
+            "group":3,
+            "class":"ptp_cs_galil",
+            "name":"Galil",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_GALIL",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_m4a1.mdl",
+            "group":3,
+            "class":"ptp_cs_m4",
+            "name":"M4",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_M4",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_rif_sg552.mdl",
+            "group":3,
+            "class":"ptp_cs_sg552",
+            "name":"SG 552",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_SG552",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_snip_awp.mdl",
+            "group":4,
+            "class":"ptp_cs_awp",
+            "name":"AWP",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_AWP",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_snip_g3sg1.mdl",
+            "group":4,
+            "class":"ptp_cs_g3sg1",
+            "name":"g3sg1",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_G3SG1",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_snip_scout.mdl",
+            "group":4,
+            "class":"ptp_cs_scout",
+            "name":"Scout",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_SCOUT",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_snip_sg550.mdl",
+            "group":4,
+            "class":"ptp_cs_sg550",
+            "name":"SG 550",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_SG550",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_shot_xm1014.mdl",
+            "group":5,
+            "class":"ptp_cs_autoshotgun",
+            "name":"XM 1014",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_AUTOSHOTGUN",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_shot_m3super90.mdl",
+            "group":5,
+            "class":"w_shot_m3super90",
+            "name":"M3 Super 90",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_M3SUPER90",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg_mac10.mdl",
+            "group":6,
+            "class":"ptp_cs_mac10",
+            "name":"MAC-10",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_MAC10",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg_tmp.mdl",
+            "group":6,
+            "class":"ptp_cs_tmp",
+            "name":"TMP",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_TMP",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg_ump45.mdl",
+            "group":6,
+            "class":"ptp_cs_ump45",
+            "name":"UMP 45",
+            "price":0,
+            "ammo":0,
+            "ammoClass":"BULLET_UMP45",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg_mp5.mdl",
+            "group":6,
+            "class":"ptp_cs_mp5",
+            "name":"MP5",
+            "price":0,
+            "ammo":82,
+            "ammoClass":"BULLET_MP5",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_smg_p90.mdl",
+            "group":6,
+            "class":"ptp_cs_p90",
+            "name":"p90",
+            "price":0,
+            "ammo":10,
+            "ammoClass":"BULLET_P90",
+            "damage":7,
+            "donatoronly":false
+           },
+           
+           {
+            "model":"models/weapons/w_mach_m249para.mdl",
+            "group":7,
+            "class":"ptp_cs_para",
+            "name":"M249",
+            "price":0,
+            "ammo":400,
+            "ammoClass":"BULLET_PARA",
+            "damage":7,
+            "donatoronly":false
+           }
+    ]
+
+}
+

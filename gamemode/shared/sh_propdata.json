@@ -1,0 +1,239 @@
+{
+    "props":
+    [
+        {
+            "model":"models/props_c17/furnituretable002a.mdl", 
+            "group":1, 
+            "price":50, 
+            "health":25, 
+            "donatorOnly":false, 
+            "description":"Wooden Table"
+            },
+            {
+            "model":"models/props_c17/gravestone003a.mdl", 
+            "group":2, 
+            "price":160, 
+            "health":80, 
+            "donatorOnly":false, 
+            "description":"Gravestone"
+            },
+            {
+            "model":"models/props_c17/oildrum001.mdl", 
+            "group":2, 
+            "price":60, 
+            "health":30, 
+            "donatorOnly":false, 
+            "description":"Oil Drum"
+            },
+            {
+            "model":"models/props_c17/concrete_barrier001a.mdl", 
+            "group":2, 
+            "price":150, 
+            "health":75, 
+            "donatorOnly":false, 
+            "description":"Concrete Barrier"
+            },
+            {
+            "model":"models/props_c17/gravestone_coffinpiece002a.mdl", 
+            "group":2, 
+            "price":160, 
+            "health":80, 
+            "donatorOnly":false, 
+            "description":"Coffin Piece"
+            },
+            {
+            "model":"models/props_c17/display_cooler01a.mdl", 
+            "group":2, 
+            "price":260, 
+            "health":130, 
+            "donatorOnly":false, 
+            "description":"Display Case"
+            },
+            {
+            "model":"models/props_c17/bench01a.mdl", 
+            "group":1, 
+            "price":40, 
+            "health":20, 
+            "donatorOnly":false, 
+            "description":"Wooden Bench"
+            },
+            {
+            "model":"models/props_c17/furniturecouch001a.mdl", 
+            "group":2, 
+            "price":400, 
+            "health":200, 
+            "donatorOnly":false, 
+            "description":"Red Couch"
+            },
+            {
+            "model":"models/combine_helicopter/helicopter_bomb01.mdl", 
+            "group":1, 
+            "price":30, 
+            "health":15, 
+            "donatorOnly":false, 
+            "description":"HeliBomb"
+            },
+            {
+            "model":"models/props_c17/shelfunit01a.mdl", 
+            "group":1, 
+            "price":180, 
+            "health":90, 
+            "donatorOnly":false, 
+            "description":"Wooden Shelf 1"
+            },
+            {
+            "model":"models/props_c17/furnitureshelf001a.mdl", 
+            "group":1, 
+            "price":200, 
+            "health":100, 
+            "donatorOnly":false, 
+            "description":"Wooden Shelf 2"
+            },
+            {
+            "model":"models/props_interiors/furniture_shelf01a.mdl", 
+            "group":1, 
+            "price":450, 
+            "health":225, 
+            "donatorOnly":false, 
+            "description":"Wooden Shelf 3"
+            },
+            {
+            "model":"models/props_c17/lockers001a.mdl", 
+            "group":2, 
+            "price":700, 
+            "health":350, 
+            "donatorOnly":false, 
+            "description":"Metal Locker"
+            },
+            {
+            "model":"models/props_debris/metal_panel02a.mdl", 
+            "group":2, 
+            "price":100, 
+            "health":50, 
+            "donatorOnly":false, 
+            "description":"Metal Panel 1"
+            },
+            {
+            "model":"models/props_debris/metal_panel01a.mdl", 
+            "group":2, 
+            "price":200, 
+            "health":100, 
+            "donatorOnly":false, 
+            "description":"Metal Panel 2"
+            },
+            {
+            "model":"models/props_c17/canister_propane01a.mdl", 
+            "group":2, 
+            "price":150, 
+            "health":75, 
+            "donatorOnly":false, 
+            "description":"Gas Canister 1"
+            },
+            {
+            "model":"models/props_c17/canister01a.mdl", 
+            "group":2, 
+            "price":100, 
+            "health":50, 
+            "donatorOnly":false, 
+            "description":"Gas Canister 2"
+            },
+            {
+            "model":"models/props_doors/door03_slotted_left.mdl", 
+            "group":1, 
+            "price":250, 
+            "health":125, 
+            "donatorOnly":false, 
+            "description":"Door"
+            },
+            {
+            "model":"models/props_docks/dock03_pole01a_256.mdl", 
+            "group":1, 
+            "price":400, 
+            "health":200, 
+            "donatorOnly":false, 
+            "description":"Wooden Pole 1"
+            },
+            {
+            "model":"models/props_docks/dock01_pole01a_128.mdl", 
+            "group":1, 
+            "price":200, 
+            "health":100, 
+            "donatorOnly":false, 
+            "description":"Wooden Pole 2"
+            },
+            {
+            "model":"models/props_interiors/bathtub01a.mdl", 
+            "group":2, 
+            "price":800, 
+            "health":400, 
+            "donatorOnly":false, 
+            "description":"Bathtub"
+            },
+            {
+            "model":"models/props_interiors/furniture_desk01a.mdl", 
+            "group":1, 
+            "price":160, 
+            "health":80, 
+            "donatorOnly":false, 
+            "description":"Wooden Desk"
+            },
+            {
+            "model":"models/props_interiors/refrigerator01a.mdl", 
+            "group":2, 
+            "price":600, 
+            "health":300, 
+            "donatorOnly":false, 
+            "description":"Refrigerator"
+            },
+            {
+            "model":"models/props_interiors/refrigeratordoor01a.mdl", 
+            "group":2, 
+            "price":300, 
+            "health":150, 
+            "donatorOnly":false, 
+            "description":"Refrigerator Door"
+            },
+            {
+            "model":"models/props_interiors/vendingmachinesoda01a.mdl", 
+            "group":1, 
+            "price":1200, 
+            "health":600, 
+            "donatorOnly":false, 
+            "description":"Vending Machine"
+            },
+            {
+            "model":"models/props_interiors/vendingmachinesoda01a_door.mdl", 
+            "group":1, 
+            "price":600, 
+            "health":300, 
+            "donatorOnly":false, 
+            "description":"Vending Machine Door"
+            },
+            {
+            "model":"models/props_building_details/storefront_template001a_bars.mdl", 
+            "group":2, 
+            "price":220, 
+            "health":110, 
+            "donatorOnly":false, 
+            "description":"Window Bars"
+            },
+            {
+            "model":"models/props_borealis/bluebarrel001.mdl", 
+            "group":1, 
+            "price":50, 
+            "health":25, 
+            "donatorOnly":false, 
+            "description":"Blue Barrel"
+            },
+            {
+            "model":"models/props_doors/door03_slotted_left.mdl", 
+            "group":3, 
+            "price":15, 
+            "health":255, 
+            "donatorOnly":false, 
+            "description":"Drzwi czy cos"
+            }
+    ]
+
+}
+

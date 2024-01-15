@@ -1,0 +1,31 @@
+{
+    "ammoTypes":
+    [
+        {"name":"BULLET_AK47","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_AUG","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_AUTOSHOTGUN","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_AWP","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_DEAGLE","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_ELITES","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_FAMAS","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_FIVESEVEN","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_G3SG1","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_GALIL","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_GLOCK","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_M4","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_MAC10","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_MP5","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_P90","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_P228","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_PARA","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_PUMPSHOTGUN","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_SCOUT","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_SG550","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_SG552","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_TMP","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_UMP45","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5},
+        {"name":"BULLET_USP","dmgtype":"DMG_BULLET","tracer":"TRACER_LINE","plydmg":0,"npcdmg":0,"force":2000,"maxcarry":120,"minsplash":10,"maxsplash":5}
+    ]
+
+}
+

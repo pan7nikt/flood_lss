@@ -1,0 +1,6 @@
+For debugging the gamemode in singleplayer these values need to be modified:
+
+- gamemode\server\sv_roundcontroller.lua in CheckPhase() function change
+count to 1 instead of 2 (in the if statement)
+
+- gamemode\init.lua change convars (all timers recommended to 10)
